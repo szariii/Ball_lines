@@ -1,5 +1,6 @@
 <h1>Ball_lines</h1>
 <p>Port was made in typescript and using vite</p>
+<p>To reach points you need to collect at least 5 balls in one line or cross</p>
 
 
 <h2>How to play game?</h2>
