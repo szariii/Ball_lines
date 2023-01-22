@@ -1,6 +1,9 @@
 <h1>Ball_lines</h1>
 <p>Port was made in typescript and using vite</p>
-<p>To reach points you need to collect at least 5 balls in one line or cross</p>
+
+<h2>Rules</h2>
+<p>To reach points you need to collect at least 5 balls in one line or cross (1 ball = 1 point) </p>
+<p>You can move balls only to place where is free and dont block by other balls </p>
 
 
 <h2>How to play game?</h2>
