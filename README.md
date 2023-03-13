@@ -25,6 +25,6 @@
 <h2>Screenshots</h2>
 <img src="./img/img1.JPG" alt="img1">
 <img src="./img/img2.JPG" alt="img2">
-<img src="./img/img3.JPG" alt="img3">
+<img src="./img/img3.jpg" alt="img3">
 <img src="./img/img4.JPG" alt="img4">
 
