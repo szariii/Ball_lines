@@ -21,3 +21,10 @@
   <li>Copy adres on screen and paste in browser</li>
   <li>Play and have fun</li>
 </ol>
+
+<h2>Screenshots</h2>
+<img src="./img/img1.JPG" alt="img1">
+<img src="./img/img2.JPG" alt="img2">
+<img src="./img/img3.JPG" alt="img3">
+<img src="./img/img4.JPG" alt="img4">
+
